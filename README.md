@@ -1,6 +1,12 @@
 # 💫 About Me:
 Hi, I'm Ian! I recently graduated from Eduvos with a degree in Software Engineering. <br>I'm passionate about coding and eager to find a role where I can grow my technical skills, contribute to innovative projects, and continue learning in a professional environment.
 
+## 🛠️ What am I currently doing: 
+- Creating my personal website.
+- Udemy Courses:
+  - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
+  - [Java Data Structures & Algorithms](https://www.udemy.com/course/data-structures-and-algorithms-java/)
+  - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iterhaar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25607915) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ianterhaar) 
