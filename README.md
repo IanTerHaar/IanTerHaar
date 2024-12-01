@@ -2,7 +2,7 @@
 Hi, I'm Ian! I recently graduated from Eduvos with a degree in Software Engineering. <br>I'm passionate about coding and eager to find a role where I can grow my technical skills, contribute to innovative projects, and continue learning in a professional environment.
 
 ## 🛠️ What am I currently doing: 
-- Creating my personal website.
+- Creating my personal website, [ianterhaar.me](https://ianterhaar.me/).
 - Udemy Courses:
   - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
   - [Java Data Structures & Algorithms](https://www.udemy.com/course/data-structures-and-algorithms-java/)
