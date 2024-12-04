@@ -4,6 +4,7 @@ Hi, I'm Ian! I recently graduated from Eduvos University with a Bachelor's in In
 ## 🛠️ What am I currently doing: 
 - Creating my personal website, [ianterhaar.me](https://ianterhaar.me/).
 - Udemy Courses:
+  - [Complete C# Masterclass]{https://www.udemy.com/course/complete-csharp-masterclass/}
   - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/)
   - [Java Data Structures & Algorithms](https://www.udemy.com/course/data-structures-and-algorithms-java/)
   - [Java 17 Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
