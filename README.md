@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ian! I recently graduated from Eduvos University with a Bachelor's in Information Technology. <br>I'm passionate about coding and eager to find a role where I can grow my technical skills, contribute to innovative projects, and continue learning in a professional environment.
+Hi, I'm Ian! I recently graduated from Eduvos University with a Bachelor's in Information Technology. I’m excited to start my software engineering internship at Pepkor Payments and Lending in January 2025. I’m passionate about coding and eager to find opportunities where I can grow my technical skills, contribute to innovative projects, and continue learning in a professional environment.
 
 ## 🛠️ What am I currently doing: 
 - Creating my personal website, [ianterhaar.me](https://ianterhaar.me/).
