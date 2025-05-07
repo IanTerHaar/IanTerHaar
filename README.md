@@ -2,7 +2,7 @@
 I code
 
 ## 🛠️ What am I currently doing: 
-Noting
+Nothing
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iterhaar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25607915) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ianterhaar) ![GitHub followers](https://img.shields.io/github/followers/IanTerHaar)
