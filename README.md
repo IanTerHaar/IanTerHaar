@@ -1,10 +1,8 @@
 # 💫 About Me:
-Hi, I'm Ian! I recently graduated from Eduvos University with a Bachelor's in Information Technology. I’m currently working as a software developer intern at Pepkor Payments and Lending. I’m passionate about coding and eager to find opportunities where I can grow my technical skills, contribute to innovative projects, and continue learning in a professional environment.
+I code
 
 ## 🛠️ What am I currently doing: 
-- Working at Pepkor Payments and Lending.
-- Udemy Courses:
-  - Various courses related to C#
+Noting
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iterhaar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25607915) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ianterhaar) ![GitHub followers](https://img.shields.io/github/followers/IanTerHaar)
