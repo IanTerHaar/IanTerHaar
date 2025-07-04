@@ -66,7 +66,7 @@
 ## 📈 Profile Stats
 <p align="left">
   <img src="https://wakatime.com/badge/user/35ff3bf9-b3af-446e-8dcb-7e1ab982b51c.svg" alt="WakaTime Badge"/>
-  <img src="https://img.shields.io/github/followers/IanTerHaar?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/IanTerHaar?label=Followers&style=social?style=plastic" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=IanTerHaar" alt="Profile Views"/>
 </p>
 
