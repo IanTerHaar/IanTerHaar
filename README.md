@@ -1,10 +1,10 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi 👋, I'm Ian Ter Haar</h1>
+<h1 align="center">hello</h1>
 
 ---
 
-## 🌐 Connect with Me
+## Socials
 <p align="left">
   <a href="https://youtube.com/@ianterhaar" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
@@ -22,14 +22,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IanTerHaar&theme=github_dark_dimmed&hide_border=false"/>
 </p>
 
 ---
 
-## ⏱️ My WakaTime Stats
+## My WakaTime Stats
 <p align="center">
   <a href="https://wakatime.com/@IanTerHaar">
     <img src="https://wakatime.com/share/@IanTerHaar/95b1209e-6f06-4c29-b54f-8b4c31007fd2.svg" alt="My WakaTime Stats"/>
@@ -38,7 +38,7 @@
 
 ---
 
-## 📈 Profile Stats
+## Profile Stats
 <p align="left">
   <img src="https://wakatime.com/badge/user/35ff3bf9-b3af-446e-8dcb-7e1ab982b51c.svg" alt="WakaTime Badge"/>
   <img src="https://img.shields.io/github/followers/IanTerHaar?label=Followers&style=social?style=plastic" alt="GitHub Followers"/>
